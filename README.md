@@ -1,7 +1,6 @@
 # DataAnalysis
 데이터분석 연습
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ## 1. 마켓 이용자 분석🏪 (marketing_campaign)
 > * #### 데이터 살펴보기
 >   * head(), info() 로 데이터를 살펴보고 value_counts()로 더 자세히 살펴보았다.
@@ -25,3 +24,4 @@
 >   * catplot으로 결혼상태로 데이터를 나누어 시각화했다. 그리고 자녀의 유뮤에 따라 와인 지출금액을 describe()로 요약했다.
 > * #### 학력별 소득 비교
 >   * catplot으로 최종학력과 수익에 대해 그래프를 그렸는데 유독 높은 데이터 때문에 대부분의 데이터를 자세히 볼수 없게되었다. 그래서 그 데이터를 제외하고 그래프를 다시 그려보았다. swarm으로 살펴보았다. np.average를 이용해 학력별로 수익 평균을 내는데 nan데이터를 제외하기위해서 dropna()를 사용하였다.
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
