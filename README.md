@@ -1,7 +1,8 @@
 # DataAnalysis
 데이터분석 연습
 
-## 1. 마켓 이용자 분석
+## 1. 마켓 이용자 분석🏪 (marketing_campaign)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 > * #### 데이터 살펴보기
 >   * head(), info() 로 데이터를 살펴보고 value_counts()로 더 자세히 살펴보았다.
 > * #### 고객의 연령층
